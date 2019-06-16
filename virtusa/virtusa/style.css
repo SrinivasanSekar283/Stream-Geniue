@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#navbar {
+    height: 55px;
+    background: gray;
+}
+#navbar p{
+    padding: 16px;
+    float: right;
+    font-size: 18px;
+    color: white;
+}
+
+.contents {
+    padding: 15px;
+    color:red;
+}
